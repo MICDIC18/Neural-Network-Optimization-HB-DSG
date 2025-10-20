@@ -6,14 +6,13 @@ The goal is to compare their convergence behavior, efficiency, and robustness in
 
 Repository Structure
 Neural-Network-Optimization-HB-DSG/
-│
-├── data/                        # Dataset and preprocessing scripts
-│   ├── digits_dataset.csv
-│   ├── PREPROCESSING DATASET.ipynb
-│   └── PREPROCESSING DATASET.py
-│
-├── f-star/                      # f* values with different λ (lambda)
-│   ├── f_star con lambda=0.01.ipynb
+    data/                        # Dataset and preprocessing scripts
+        digits_dataset.csv
+        PREPROCESSING DATASET.ipynb
+        PREPROCESSING DATASET.py
+        
+    f-star/                      f* values with different λ (lambda)
+   f_star con lambda=0.01.ipynb
 │   ├── f_star con lambda=0.1.ipynb
 │   └── f_star con lambda=1.ipynb
 │
