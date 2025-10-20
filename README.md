@@ -6,42 +6,43 @@ The goal is to compare their convergence behavior, efficiency, and robustness in
 
 Repository Structure
 
-Neural-Network-Optimization-HB-DSG/
+📁 Neural-Network-Optimization-HB-DSG
 │
-├── data/                          # Dataset and preprocessing scripts
-│   ├── digits_dataset.csv
-│   ├── PREPROCESSING DATASET.ipynb
-│   └── PREPROCESSING DATASET.py
+├── data/                          → Dataset and preprocessing scripts  
+│   ├── digits_dataset.csv  
+│   ├── PREPROCESSING DATASET.ipynb  
+│   └── PREPROCESSING DATASET.py  
 │
-├── f-star/                        # f* values with different λ (lambda)
-│   ├── f_star con lambda=0.01.ipynb
-│   ├── f_star con lambda=0.1.ipynb
-│   └── f_star con lambda=1.ipynb
+├── f-star/                        → f* values with different λ (lambda)  
+│   ├── f_star con lambda=0.01.ipynb  
+│   ├── f_star con lambda=0.1.ipynb  
+│   └── f_star con lambda=1.ipynb  
 │
-├── plot/                          # Plotting scripts for HB and DSG algorithms
-│   ├── Algoritmi_plot.py
-│   ├── Plot hb e dsg.ipynb
-│   └── Plot hb e dsg.py
+├── plot/                          → Plotting scripts for HB and DSG algorithms  
+│   ├── Algoritmi_plot.py  
+│   ├── Plot hb e dsg.ipynb  
+│   └── Plot hb e dsg.py  
 │
-├── test/                          # Core algorithms and test scripts
-│   ├── HeavyBall.py
-│   ├── DeflectedSubgradient.py
-│   ├── GridSearch.py
-│   ├── NeuralNetwork.py
-│   └── Test algoritmi su Matyas e Himmelblau.py
+├── test/                          → Core algorithms and test scripts  
+│   ├── HeavyBall.py  
+│   ├── DeflectedSubgradient.py  
+│   ├── GridSearch.py  
+│   ├── NeuralNetwork.py  
+│   └── Test algoritmi su Matyas e Himmelblau.py  
 │
-├── weights and bias generated/    # Saved weights and biases (.npy files)
-│   ├── W1.npy
-│   ├── W2.npy
-│   ├── b1.npy
-│   └── b2.npy
+├── weights and bias generated/    → Saved weights and biases (.npy files)  
+│   ├── W1.npy  
+│   ├── W2.npy  
+│   ├── b1.npy  
+│   └── b2.npy  
 │
-├── MAIN.py                        # Main execution script
+├── MAIN.py                        → Main execution script  
 │
-├── O4DS_ArancioFebbo_Dicandia.pdf       # Final project report (Italian version)
-├── O4DS_ArancioFebbo_Dicandia_ENG.pdf   # Final project report (English version)
+├── O4DS_ArancioFebbo_Dicandia.pdf       → Final project report (Italian version)  
+├── O4DS_ArancioFebbo_Dicandia_ENG.pdf   → Final project report (English version)  
 │
 └── README.md
+
 
 
 
