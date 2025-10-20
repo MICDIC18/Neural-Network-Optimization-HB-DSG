@@ -5,6 +5,7 @@ This repository contains the implementation, analysis, and visualization of two 
 The goal is to compare their convergence behavior, efficiency, and robustness in neural network training.
 
 Repository Structure
+
 Neural-Network-Optimization-HB-DSG/
 │
 ├── data/                          # Dataset and preprocessing scripts
@@ -39,6 +40,9 @@ Neural-Network-Optimization-HB-DSG/
 │
 ├── O4DS_ArancioFebbo_Dicandia.pdf       # Final project report (Italian version)
 ├── O4DS_ArancioFebbo_Dicandia_ENG.pdf   # Final project report (English version)
+│
+└── README.md
+
 
 
 
